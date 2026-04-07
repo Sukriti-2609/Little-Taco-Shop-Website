@@ -26,27 +26,12 @@ This project was created as part of my learning journey in web development throu
 ## 📂 Project Structure
 Little-Taco-Shop
 
-- `index.html` → Main landing page  
-- `assets/` → Static files (CSS, images, icons)  
-- `pages/` → Additional website pages  
-
 HTML/
-│
-├── index.html          ✅ MAIN PAGE
-│
-├── assets/
-│   ├── css/
-│   ├── images/
-│   |   ├── screenshots/
-│   └── icons/
-│
-├── pages/
-│   ├── contact.html
-│   ├── hours.html
-│   └── privacy_policy.html
-│
-├── README.md
-└── LICENSE
+- `index.html` → ✅ Main landing page  
+- `assets/` → Static files (css, icons, images, screenshots)  
+- `pages/` → Additional website pages (`contact.html`, `hours.html`, `privacy_policy.html`)
+- README.md
+- LICENSE
 
 ---
 
