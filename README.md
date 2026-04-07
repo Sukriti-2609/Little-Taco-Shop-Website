@@ -24,22 +24,25 @@ This project was created as part of my learning journey in web development throu
 ---
 
 ## 📂 Project Structure
-Little-Taco-Shop/
-│
-├── home.html
-├── hours.html
-├── contact.html
-├── privacy_policy.html
-├── CSS_Style.css
-├── PPfavicon.ico
-├── Tacofavicon.ico
-├── Telefavicon.ico
-├── Timefavicon.ico
-├── img/
-│ ├── tacos_and_drink_400x267.png
-│ ├── tacos_tray_400x267.png
-│ ├── tacos_close_up_400x260.png
+Little-Taco-Shop
 
+HTML/
+│
+├── index.html          ✅ MAIN PAGE
+│
+├── assets/
+│   ├── css/
+│   ├── images/
+│   |   ├── screenshots/
+│   └── icons/
+│
+├── pages/
+│   ├── contact.html
+│   ├── hours.html
+│   └── privacy_policy.html
+│
+├── README.md
+└── LICENSE
 
 ---
 
@@ -99,6 +102,12 @@ Little-Taco-Shop/
 - Improve UI/UX with modern styling
 - Add JavaScript for interactivity (form validation, dynamic content)
 - Convert into a fully responsive website
+
+---
+
+## 📸 Preview
+
+![Home Page](assets/images/screenshots/home.png)
 
 ---
 
