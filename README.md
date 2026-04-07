@@ -2,7 +2,7 @@
 Completed On January 20, 2026
 
 ## 📖 Project Overview
-This project is a beginner-friendly multi-page website built using HTML and basic CSS. It represents a fictional restaurant called **“Little Taco Shop”** and demonstrates core web development concepts including page structure, navigation, forms, and semantic HTML.
+This project is a beginner-friendly multi-page website built using HTML and CSS fundamentals. It represents a fictional restaurant called **“Little Taco Shop”** and demonstrates core web development concepts including page structure, navigation, forms, and semantic HTML.
 
 This project was created as part of my learning journey in web development through a structured tutorial series.
 
@@ -88,7 +88,7 @@ Little-Taco-Shop-Website/
 ---
 
 ### 📮 Contact Page
-- Functional contact form
+- Structured contact form with input validation
 - Input fields with validation
 - Multiple store locations with contact details
 - Use of `<address>` and semantic elements
