@@ -1,6 +1,7 @@
 # 🌮 Little Taco Shop Website (HTML Project)
 Completed On January 20, 2026
 
+---
 ## 📖 Project Overview
 
 This project is a beginner-friendly multi-page website built using HTML and CSS fundamentals. It represents a fictional restaurant called **“Little Taco Shop”** and demonstrates core web development concepts including page structure, navigation, forms, and semantic HTML.
