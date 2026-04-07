@@ -31,34 +31,34 @@ Little-Taco-Shop/
 ├── index.html          → ✅ Main landing page
 │
 ├── assets/             → 📄 Static files
-|   |
+│   │
 │   ├── css/
-|   |   └── style.css
-|   |
+│   │   └── style.css
+│   │
 │   ├── icons/
-|   |   ├── favicon-home.ico
-|   |   ├── favicon-hours.ico
-|   |   ├── favicon-contact.ico
-|   |   └── favicon-privacy.ico
-|   |
+│   │   ├── favicon-home.ico
+│   │   ├── favicon-hours.ico
+│   │   ├── favicon-contact.ico
+│   │   └── favicon-privacy.ico
+│   │
 │   ├── images/
-|   |   ├── tacos_and_drink_400x267.png
-|   |   ├── tacos_close_up_400x260.png
-|   |   └── tacos_tray_400x267.png
-|   |
+│   │   ├── tacos_and_drink_400x267.png
+│   │   ├── tacos_close_up_400x260.png
+│   │   └── tacos_tray_400x267.png
+│   │
 │   └── screenshots/
-|       ├── home.png
-|       ├── hours.png
-|       ├── contact.png
-|       └── privacy_policy.png
-|
+│       ├── home.png
+│       ├── hours.png
+│       ├── contact.png
+│       └── privacy_policy.png
+│
 ├── pages/              → 🔗 Additional website pages
 │   ├── contact.html
 │   ├── hours.html
 │   └── privacy_policy.html
 │
 ├── README.md
-|
+│
 └── LICENSE
 ```
 
