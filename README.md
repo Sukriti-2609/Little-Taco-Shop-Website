@@ -127,7 +127,7 @@ Little-Taco-Shop/
 ![Home Page](assets/screenshots/home.png)
 ![Store Hours](assets/screenshots/hours.png)
 ![Contact Us](assets/screenshots/contact.png)
-![Privacy Policy](ssets/screenshots/privacy_policy.png)
+![Privacy Policy](assets/screenshots/privacy_policy.png)
 
 ---
 
