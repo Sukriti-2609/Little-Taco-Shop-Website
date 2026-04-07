@@ -27,7 +27,7 @@ This project was created as part of my learning journey in web development throu
 
 Little-Taco-Shop
 - `index.html` → ✅ Main landing page  
-- `assets/` → Static files (css, icons, images, screenshots)  
+- `assets/` → Static files (`css`, `icons`, `images`, `screenshots`)  
 - `pages/` → Additional website pages (`contact.html`, `hours.html`, `privacy_policy.html`)
 - `README.md`
 - `LICENSE`
